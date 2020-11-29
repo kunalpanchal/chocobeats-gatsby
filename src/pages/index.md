@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Chocobeats Kochi
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Amazing homemade choclates
+subheading: Choclates for everyone
 mainpitch:
   title: Why Kaldi
   description: >
